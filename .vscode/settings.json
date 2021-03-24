@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "files.exclude": {
     "amplify/.config": true,
     "amplify/**/*-parameters.json": true,
@@ -12,8 +12,3 @@
   "git.alwaysSignOff": true,
   "git.allowNoVerifyCommit": true
 }
-=======
-     "git.alwaysSignOff": true,
-     "git.allowNoVerifyCommit": true
-}
->>>>>>> 88509d3dc6e80cfd4f27b92502345616771bb07e
