@@ -11,5 +11,6 @@
     "amplify/backend/awscloudformation": true
   },
   "git.alwaysSignOff": true,
-  "git.allowNoVerifyCommit": true
+  "git.allowNoVerifyCommit": true,
+  "git.ignoreLimitWarning": true
 }
